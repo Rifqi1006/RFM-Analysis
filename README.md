@@ -32,15 +32,14 @@ RFM-Analysis/
 
 ## 📋 Dataset  
 Dataset bersumber dari Kaggle: *Retail Sales Dataset*  
-Data ini merepresentasikan penjualan toko online dengan total **461.773 baris** dan **7 kolom** utama.  
+Data ini merepresentasikan penjualan toko online dari Januari – Desember 2010 
 
-- Periode Data: Januari – Desember 2010  
 - Ukuran Data: 461.773 baris, 7 kolom  
 - Karakteristik Data: berisi transaksi penjualan mencakup informasi pesanan, produk, jumlah, harga, dan pelanggan.  
-- Struktur Kolom:  
-  - Data Transaksi Penjualan → `order_id`, `order_date`  
-  - Informasi Produk → `product_code`, `product_name`, `quantity`, `price`  
-  - Informasi Pelanggan → `customer_id`  
+- Struktur Kolom:
+  - Data Transaksi Penjualan (`order_id`, `order_date`)  
+  - Informasi Produk (`product_code`, `product_name`, `quantity`, `price`)  
+  - Informasi Pelanggan (`customer_id`)  
 
 ---
 
@@ -63,7 +62,7 @@ Dashboard interaktif ini memungkinkan pengguna untuk menganalisis segmentasi pel
 
 ---
 
-## 📊 Segmentasi RFM  
+## 👥 Segmentasi RFM  
 
 ![My Image](https://drive.google.com/uc?export=view&id=1Lo01lJ_WFW-YD_lCueev-piMSf3p4avc)
 
