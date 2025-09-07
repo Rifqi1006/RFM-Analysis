@@ -90,8 +90,8 @@ Analisis dilakukan menggunakan Python dengan dukungan library utama:
 - Analisis Data: `Pandas`, `NumPy`  
 - Visualisasi Data: `Matplotlib`, `Seaborn`, `Plotly`  
 - Visualisasi Interaktif: `Power BI`  
-- Pengolahan Tanggal/Waktu: `datetime`  
-- Lingkungan Pengembangan: `Jupyter Notebook`  
+- Pengolahan Tanggal/Waktu: `datetime`
+- Environment: `Jupyter Notebook`   
 
 ---
 
