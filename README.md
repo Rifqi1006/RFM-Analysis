@@ -87,8 +87,7 @@ Analisis RFM mengelompokkan pelanggan ke dalam 10 segmentasi utama berdasarkan k
 Analisis dilakukan menggunakan Python dengan dukungan library utama:  
 
 - Bahasa Pemrograman: `Python`  
-- Analisis Data: `Pandas`, `NumPy`  
-- Visualisasi Data: `Matplotlib`, `Seaborn`, `Plotly`  
+- Analisis Data: `Pandas`, `NumPy`   
 - Visualisasi Interaktif: `Power BI`  
 - Pengolahan Tanggal/Waktu: `datetime`
 - Environment: `Jupyter Notebook`   
@@ -96,7 +95,7 @@ Analisis dilakukan menggunakan Python dengan dukungan library utama:
 ---
 
 ## 🔍 Insight Utama  
-- Dominasi Segment Bernilai Tinggi → Segment Champion (570 pelanggan) dan Loyal Customers (591 pelanggan) menyumbang nilai monetary tertinggi dengan rata-rata £4,530 dan £2,430 per pelanggan.  
+- Dominasi Segment Bernilai Tinggi → Segment Champion (570 pelanggan) dan Loyal Customers (591 pelanggan) menyumbang nilai monetary tertinggi dengan rata-rata USD 4,530 dan USD 2,430 per pelanggan.  
 - Potensi Pengembangan → Segment Potential Loyalists (395 pelanggan) menunjukkan recency yang baik (24 hari) dengan frequency menengah, berpotensi ditingkatkan menjadi Loyal Customers.  
 - Perhatian Khusus Diperlukan → Segment At Risk (329 pelanggan) dan Can't Lose Them (46 pelanggan) memiliki nilai monetary tinggi tetapi recency sangat lama (>126 hari), membutuhkan strategi retensi segera.  
 - Base Pelanggan Besar Tidak Aktif → Hibernating merupakan segment terbesar (1,138 pelanggan, 29.7%) dengan recency sangat lama (194 hari) dan aktivitas rendah, tetapi masih berpotensi diaktivasi kembali.  
